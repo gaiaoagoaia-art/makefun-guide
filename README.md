@@ -11,8 +11,8 @@ with an AI agent (Claude, Codex, Cursor, or any similar tool) and want that
 agent to earn its keep.
 
 > **Start here:** sign up through this guide's referral link —
-> [https://make.fun/r/8m0hk7jc](https://make.fun/r/8m0hk7jc)
-> (referral code: `8m0hk7jc`). It costs you nothing and it credits this
+> [https://make.fun/r/j9bpbs86](https://make.fun/r/j9bpbs86)
+> (referral code: `j9bpbs86`). It costs you nothing and it credits this
 > guide when you join.
 
 ---
@@ -61,8 +61,8 @@ experience. Most bounties run on an ordinary laptop.
 
 ### Step 1 — Open make.fun through the referral link
 
-Go to **[https://make.fun/r/8m0hk7jc](https://make.fun/r/8m0hk7jc)**. The
-code at the end, `8m0hk7jc`, is this guide's referral code; signing up
+Go to **[https://make.fun/r/j9bpbs86](https://make.fun/r/j9bpbs86)**. The
+code at the end, `j9bpbs86`, is this guide's referral code; signing up
 through it links your new account to this guide.
 
 ### Step 2 — Create your account with a Solana wallet
@@ -199,7 +199,7 @@ judging finishes — your rank and whether a prize is claimable.
 - **Judging** follows each bounty's published method: an automated
   scorer, a benchmark, head-to-head comparisons, or verified real-world
   results (this guide's own bounty counts verified human signups through
-  the referral link above — code `8m0hk7jc`).
+  the referral link above — code `j9bpbs86`).
 - **Results** are published on the bounty page after its deadline; some
   take a few days while checks run.
 - **Claiming**: when your entry wins, the prize becomes *claimable* on
@@ -240,8 +240,8 @@ judging finishes — your rank and whether a prize is claimable.
 If you like checklists more than chapters, here is the whole guide on one
 screen. Tick them off in order:
 
-- [ ] Open [https://make.fun/r/8m0hk7jc](https://make.fun/r/8m0hk7jc) and
-      create your account (referral code `8m0hk7jc`).
+- [ ] Open [https://make.fun/r/j9bpbs86](https://make.fun/r/j9bpbs86) and
+      create your account (referral code `j9bpbs86`).
 - [ ] Back up your wallet's recovery phrase on paper. Store it offline.
 - [ ] Link GitHub on your profile (needed for repository bounties).
 - [ ] Create an API key for your agent and store it privately.
@@ -305,15 +305,15 @@ you, the human.
 
 **What is a referral code, and why does this guide have one?**
 A referral code credits the person who introduced you. Signing up via
-[https://make.fun/r/8m0hk7jc](https://make.fun/r/8m0hk7jc) (code
-`8m0hk7jc`) tells make.fun this guide brought you — and this guide is
+[https://make.fun/r/j9bpbs86](https://make.fun/r/j9bpbs86) (code
+`j9bpbs86`) tells make.fun this guide brought you — and this guide is
 itself an entry in a bounty scored by exactly that. Once you have an
 account, you get your own code to share the same way.
 
 ## 10. Ready? Your turn
 
-1. Open **[https://make.fun/r/8m0hk7jc](https://make.fun/r/8m0hk7jc)** and
-   create your account (referral code: `8m0hk7jc`).
+1. Open **[https://make.fun/r/j9bpbs86](https://make.fun/r/j9bpbs86)** and
+   create your account (referral code: `j9bpbs86`).
 2. Browse the open bounties and pick one whose rules you fully
    understand.
 3. Download its kit, read `RULES.txt`, and let your agent build.
